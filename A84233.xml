@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Exceeding good news from Oxford-shire: being a true relation of the manner of the apprehending of the Earle of Berkshire, Sir Iohn Curson, Sir Robert Dormer, and divers other cavaliers in Oxfordshire, by Colonell Hampden, and Col. Goodwyn. Also the valiant resolution of the city of Chichester for the defence of the King and Parliament, and the true Protestant religion. Joh. Brown, Cler. Parl.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84233</idno>
+            <idno type="STC">Wing E3737</idno>
+            <idno type="STC">Thomason E114_3</idno>
+            <idno type="STC">ESTC R7346</idno>
+            <idno type="EEBO-CITATION">99873118</idno>
+            <idno type="PROQUEST">99873118</idno>
+            <idno type="VID">125572</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84233)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125572)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E114[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Exceeding good news from Oxford-shire: being a true relation of the manner of the apprehending of the Earle of Berkshire, Sir Iohn Curson, Sir Robert Dormer, and divers other cavaliers in Oxfordshire, by Colonell Hampden, and Col. Goodwyn. Also the valiant resolution of the city of Chichester for the defence of the King and Parliament, and the true Protestant religion. Joh. Brown, Cler. Parl.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2] 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Edwards,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>August 24. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"This has nothing to do with Oxford, but with the capture of the earl of Berkshire and others by col. Hampden and col. Goodwin at Watlington." -- Cf. Madan.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Berkshire, Thomas Howard, --  Earl of, ca. 1590-1669 --  Early works to 1800.</term>
+               <term>Carnarvon, Robert Dormer, --  Earl of, 1609 or 10-1643 --  Early works to 1800.</term>
+               <term>Curzon, John, --  Sir --  Early works to 1800.</term>
+               <term>Goodwin, Arthur, 1593 or 4-1643 --  Early works to 1800.</term>
+               <term>Hampden, John, 1594-1643 --  Early works to 1800.</term>
+               <term>Commissions of array --  Early works to 1800.</term>
+               <term>Chichester (England) --  History --  Early works to 1800.</term>
+               <term>Oxfordshire (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125572:1"/>
+            <pb facs="tcp:125572:1" rendition="simple:additions"/>
+            <p>EXCEEDING GOOD NEWS <hi>FROM</hi> OXFORD-SHIRE: Being a true Relation of the manner of the ap<g ref="char:EOLhyphen"/>prehending of the Earle of <hi>Berkſhire,</hi> Sir <hi>Iohn Curſon,</hi> Sir <hi>Robert Dormer,</hi> and diverſe other Cavaliers in <hi>Oxfordſhire,</hi> by Colonell <hi>Hampden,</hi> and Col. <hi>Goodwyn.</hi>
+            </p>
+            <p>ALSO The valiant Reſolution of the City of <hi>Chicheſter</hi> for the defence of the King and Parliament, and the true Proteſtant Religion.</p>
+            <p>Joh. Brown, Cler. Parl.</p>
+            <p>Printed for <hi>Tho. Edwards. Auguſt</hi> 24. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:125572:2"/>
+            <pb n="1" facs="tcp:125572:2"/>
+            <head>GOOD NEWES <hi>FROM</hi> OXFORD-SHIRE: Being a true Relation of the manner of the ta<g ref="char:EOLhyphen"/>king of the Earle of <hi>Berkſhire,</hi> Sir <hi>Iohn Curſon,</hi> Sir <hi>Robert Dormer,</hi> and divers other Cavaliers in <hi>Oxfordſhire,</hi> by Colonell <hi>Hampden,</hi> and Colonell <hi>Goodwyn.</hi>
+            </head>
+            <head type="sub">ALSO The Reſolution of the City of <hi>Chicheſter</hi> for the defence of the Parliament.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He great and mani<g ref="char:EOLhyphen"/>fold diſtractions and diſturbances that at this preſent have in a manner over<g ref="char:EOLhyphen"/>ſpread and obſcured the luſtre of this (not long ſince) glorious Kingdome, have of late beene very pre<g ref="char:EOLhyphen"/>valent. Who ſo looks into the North, may
+<pb n="2" facs="tcp:125572:3"/>ſee a cloud ariſing which portends a ſtorme, a ſtorme of civill warre, growing black and diſa<g ref="char:EOLhyphen"/>ſterous. The actions of the Cavaliers in thoſe parts ſpeak them bloudy and tyrannicall: the proceedings of the Malignant Party continue hoſtile and inhumane, having made deſperate attempts againſt diverſe brave and flouriſhing townes: but hitherto they have not been very proſperous, but have been moſt couragiouſly reſiſted by the inhabitants in moſt places they have come at: you may ſee an example of it in this enſuing diſcourſe, in the attempt of the Earle of <hi>Berkſhire</hi> to ſurprize the Magazine, and put in execution the Commiſsion of Array in <hi>Oxfordſhire.</hi>
+            </p>
+            <p>After the marching out of the forces under the command of Colonell <hi>Hampden</hi> and Colo<g ref="char:EOLhyphen"/>nell <hi>Goodwyn</hi> into <hi>Oxfordſhire,</hi> they had not been long there, but they tooke the Earle of <hi>Berkſhire,</hi> Sir <hi>Iohn Curſon,</hi> Sir <hi>Robert Dormer,</hi> and one more that was a Gentleman of very good quality at <hi>Watlington</hi> in the County of <hi>Oxford,</hi> which were come thither with an intent to ſeize upon the Magazine of that part of the county, which was laid in the ſaid towne, and had a purpoſe to put in execution the Commiſ<g ref="char:EOLhyphen"/>ſion of Array in thoſe parts, having ſent War<g ref="char:EOLhyphen"/>rants to <hi>Reding</hi> and other places for that pur<g ref="char:EOLhyphen"/>poſe. Whereupon report being made to the
+<pb n="3" facs="tcp:125572:3"/>Houſe, that Colonell <hi>Goodwyn</hi> and Captaine <hi>Turvill</hi> were bringing them up to the Parlia<g ref="char:EOLhyphen"/>ment, and would be there in the afternoone; whereupon the Houſe roſe about twelve a clock, and appointed to meet againe in the af<g ref="char:EOLhyphen"/>ternoone: and about three of the clocke the Lords Houſe being complete, the Earle of <hi>Berkſhire</hi> with the reſt of the Delinquents were brought to the Houſe, and after ſome exami<g ref="char:EOLhyphen"/>nation they were ſent priſoners to the Tower, with order that they ſhould attend the Houſe again the next day, which he did accordingly, being brought from the Tower to the Lords Houſe, aed after he was examined concerning his going about to put in execution the Com<g ref="char:EOLhyphen"/>miſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion of Array which was found with him, he was ſent back againe to the Tower, till the Houſe ſhould ſend for him.</p>
+            <p>The Parliament have received information by a Letter from <hi>Oxford,</hi> ſignifying that Colo<g ref="char:EOLhyphen"/>nell <hi>Lunsford</hi> is ſent for hither; and when it was noyſed there that Colonell <hi>Hampden</hi> had tanen the Earle of <hi>Berkſhire,</hi> and ſome others: thoſe of the Univerſity and City that were ill-affected to the King and Parliament, feared his coming thither, and cauſed many great pieces of timber to be ſaid croſſe the Bridge to keep out his horſe. Whereby may eaſily be percei<g ref="char:EOLhyphen"/>ved how well the Prelaticall faction, the incen<g ref="char:EOLhyphen"/>diaries of the kingdom; ſtand affected to peace.
+<pb n="4" facs="tcp:125572:4"/>The knowledge of the Earle of <hi>Northamptons</hi> violent attempt againſt the Lord <hi>Brook</hi> hath been acquainted to all, how that by a wile more then valour he tooke and carried away the greateſt part of the Magazine from <hi>Banbury,</hi> and by that power and ſtrength he thought to poſſeſſe himſelfe of the caſtle of <hi>Warwick.</hi> But God who doth always aſsiſt the pious and faith<g ref="char:EOLhyphen"/>full endeavours of his ſervants, turned his coun<g ref="char:EOLhyphen"/>ſell into folly, and all his ſtrength and policie into weakneſſe and impotency. The ſaid Earle had gathered together a great number of men of ſuch mercenary ſpirits, who were induced to ſerve him, not for the honour of the cauſe, but for the advantage of the profered wages, for they were allowed two ſhillings a day du<g ref="char:EOLhyphen"/>ring the whole time of the preſent ſervice, and (being men of deſperate fortunes, and altoge<g ref="char:EOLhyphen"/>ther deſtitute of preſent ſubſiſtence) were rea<g ref="char:EOLhyphen"/>dy to adventure upon any enterpriſe whereby ſomething might be gotten, knowing they had nothing to be loſt. The Earle, I ſay, having got<g ref="char:EOLhyphen"/>ten the advantage both of ſtrength and men, and the opportunity of time, began to adventure his forces, to bring the whole Countrey into ſubiection. But his intentions were ſoon fru<g ref="char:EOLhyphen"/>ſtrate, for when he was in the higheſt hopes of his ambitious deſignes, expecting that victory ſhould have crowned him the Hector of the field, and the Minion of the day, then did the
+<pb n="5" facs="tcp:125572:4"/>countrey unanimouſly, with the aſsiſtance of divers Voluntiers out of <hi>Northamptonſhire,</hi> and with a joynt conſent in the vindication of ſo iuſt a cauſe, hazard both lives and fortunes, came and oppoſed the Earle in his raſh and violent proceedings: whereupon the Earle perceiving himſelf ſo ſtrongly oppoſed, after a ſmall com<g ref="char:EOLhyphen"/>bate, he was willing to forſake his former enter<g ref="char:EOLhyphen"/>priſe, and was forced with all ſpeed to betake him to a place of ſtrength where he might be ſecure from their proſecution. Mary of his men fell in that skirmiſh, it is reported that a<g ref="char:EOLhyphen"/>bout forty men loſt their lives, and paid nature the debt they owed her. He loſt in this skirmiſh the greateſt part of the <hi>Militia</hi> which he had before taken from <hi>Banbury,</hi> and had he not ſa<g ref="char:EOLhyphen"/>ved himſelfe by flight, he hardly had ſurvived to have made any more attempts, to the diſ<g ref="char:EOLhyphen"/>quiet of the whole kingdome, and the ſubverſi<g ref="char:EOLhyphen"/>on of the Chriſtian and Proteſtant Religion.</p>
+            <p>The City of <hi>Chicheſter</hi> ſtands now in a good poſture of defence, and have declared their Re<g ref="char:EOLhyphen"/>ſolution to the Parliament, being reſolved to adventure both their lives and fortunes for the defence and maintenance of the true Proteſtant Religion, the Lawes of the Land, the Privi<g ref="char:EOLhyphen"/>ledges of Parliament, and Liberty of the Sub<g ref="char:EOLhyphen"/>iect, againſt any that ſhall oppoſe it: yet ſome ill-affected perſons have plotted to betray the Towne, and ſome Miniſters have made ſedi<g ref="char:EOLhyphen"/>tious
+<pb n="6" facs="tcp:125572:5"/>Sermons to that purpoſe. For the pre<g ref="char:EOLhyphen"/>vention of theſe and other diſorders, and to prevent the danger that may ariſe by the mali<g ref="char:EOLhyphen"/>gnity of the Popiſh party, The Lords and Commons do declare, That it ſhalbe lawfull for any of his Maieſties Subiects to diſarme all Popiſh Recuſants, and ſuch as ſhall execute the illegall Commiſsion of Array, or ſhalbe actors and aſsiſtants in any of the aforementioned op<g ref="char:EOLhyphen"/>preſsions and violences, or ſhall furniſh any Horſe, Arm<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, Money, or other aid or contri<g ref="char:EOLhyphen"/>bution for the maintenance of this unnaturall Warre raiſed by his Maieſty againſt his Parlia<g ref="char:EOLhyphen"/>ment: and to ſeize upon their Horſes, Armes, Money and other Proviſions, whereby they might be inabled to diſturb the Peace of the Kingdome.</p>
+            <closer/>
+            <postscript>
+               <p>Ordered to be forthwith printed &amp; publiſhed,</p>
+               <closer>
+                  <signed>Joh. Brown Cleric. Parliament.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
